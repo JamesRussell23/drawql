@@ -10,10 +10,7 @@ Navigate to the organization repo and copy + paste link into your terminal.
 `git clone` 
 
 ### Installing
-Naviate to client directory and install node modules.
-`npm install` 
-
-Navigate to server directory and install node modules.
+Naviate to client directory and install node modules, and do the same for
 `npm install` 
 
 ## Deployment
@@ -36,8 +33,6 @@ Heroku
  * Jessikeé Campbell- Walker
  * Lance Jeffers
  * Parvana Aliyeva
-
-## License
 
 ## Acknowledgments
   * Robin Wieruch: GraphQL Server Tutorial with Apollo Server and Express

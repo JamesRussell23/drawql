@@ -25,7 +25,11 @@ Something with Heroku
 ## Versioning
 
 ## Authors
-
+ * Anthony Flores
+ * James Manahan
+ * Jessikeé Campbell- Walker
+ * Lance Jeffers
+ * Parvana Aliyeva
 
 ## License
 

@@ -12,10 +12,17 @@ Navigate to the organization repo, copy + paste link into your terminal and clon
 `git clone` 
 
 ### Installing
-Naviate to client directory and install node modules, and do the same for
-
+Naviate to client directory and install node modules, then navigate to server directory and install node modules there as well.
 
 `npm install` 
+
+In client directory, run start script of application in your terminal.
+
+`npm run start` 
+
+In server directory, run server script of application in your terminal.
+
+`npm run server` 
 
 ## Deployment
 Heroku

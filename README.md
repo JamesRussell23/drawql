@@ -6,7 +6,7 @@ DrawQL allows you to to prototype, visualize, and collaborate on a new or existi
 ## Getting Started
 
 ### Prerequisites
-Navigate to the organization repo and copy + paste link into your terminal.
+Navigate to the organization repo, copy + paste link into your terminal and 
 `git clone` 
 
 ### Installing
@@ -23,9 +23,8 @@ Heroku
 * PostgreSQL
 * Sequelize
 
-## Contributing
-
 ## Versioning
+* Version 1.0 
 
 ## Authors
  * Anthony Flores

@@ -6,18 +6,22 @@ DrawQL allows you to to prototype, visualize, and collaborate on a new or existi
 ## Getting Started
 
 ### Prerequisites
-Navigate to the organization repo, copy + paste link into your terminal and 
+Navigate to the organization repo, copy + paste link into your terminal and clone.
+
+
 `git clone` 
 
 ### Installing
 Naviate to client directory and install node modules, and do the same for
+
+
 `npm install` 
 
 ## Deployment
 Heroku
 
 ## Built With
-* React: Router, Konva
+* React: Router, Konva, Bootstrap
 * Apollo Server Express
 * Apollo Client
 * PostgreSQL

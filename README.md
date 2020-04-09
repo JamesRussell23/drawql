@@ -30,8 +30,8 @@ Something with Heroku
 ## License
 
 ## Acknowledgments
-Markup: *References
-  *ROBIN WIERUCH: GraphQL Server Tutorial with Apollo Server and Express
+Markup: * References
+  * ROBIN WIERUCH: GraphQL Server Tutorial with Apollo Server and Express
 
 
 

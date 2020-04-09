@@ -4,7 +4,7 @@ DrawQL allows you to to prototype, visualize, and collaborate on a new or existi
 
 
 ## Getting Started
-Naviate to repo and `code(git clone)`
+`code()` git clone into your terminal
 
 ### Prerequisites
 

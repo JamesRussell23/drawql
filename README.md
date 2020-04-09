@@ -4,7 +4,7 @@ DrawQL allows you to to prototype, visualize, and collaborate on a new or existi
 
 
 ## Getting Started
-Something with Heroku
+Naviate to repo and `code(git clone)`
 
 ### Prerequisites
 
@@ -17,6 +17,7 @@ Something with Heroku
 ### And coding style tests
 
 ## Deployment
+Heroku
 
 ## Built With
 
@@ -35,7 +36,3 @@ Something with Heroku
 
 ## Acknowledgments
   * Robin Wieruch: GraphQL Server Tutorial with Apollo Server and Express
-
-
-
-
